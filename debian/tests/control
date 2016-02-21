@@ -1,0 +1,3 @@
+Tests: second-stage
+Restrictions: needs-root
+Depends: debootstrap
